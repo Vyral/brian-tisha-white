@@ -1384,6 +1384,32 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+.navbar-left {
+  margin-top: 2rem; }
+
+.navbar-right {
+  margin-top: 2rem; }
+
+.nav-logo {
+  float: left !important;
+  max-width: 250px;
+  margin: 5px;
+  padding: 10px; }
+
+.exp-logo {
+  max-width: 125px;
+  margin-right: 1rem; }
+
+@media (max-width: 760px) {
+  .nav-logo {
+    display: none; }
+
+  .hero-img {
+    height: 300px; }
+
+  .nav-logo-small {
+    max-width: 250px;
+    margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1454,14 +1480,15 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  height: 450px; }
 
 #hero {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  text-align: center; }
+  text-align: center;
+  padding-top: 86px; }
 
 .site-logo {
   width: 90%;
