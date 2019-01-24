@@ -23,7 +23,7 @@ One of the questions we hear the most from our clients is, “How long is it goi
 
 **1. Location.** This is a big one. Are you on a busy street, or located near major employers or schools? All of this will play a factor.
 
-**2. Price.** First, and most importantly, you want to make sure you don’t overprice your home because that will severely limit your buyer pool. You want to make sure that you look at what prices other homes like yours have sold for and price your home accordingly.
+**2. Price.** First, and most importantly, you want to make sure you don’t overprice your home, because that will severely limit your buyer pool. You want to make sure that you look at what prices other homes like yours have sold for and price your home accordingly.
 
 **3. The home’s condition.** Every home is a little different. What have you done to maintain your home? What updates have you made to it?
 
