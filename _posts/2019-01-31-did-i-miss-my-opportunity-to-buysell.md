@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Did I Miss My Opportunity to Buy/Sell?
-date:
+date: 2019-01-31 22:21:48
 tags:
 excerpt: >-
   The market has gone through a lot of changes in the past year, causing people
