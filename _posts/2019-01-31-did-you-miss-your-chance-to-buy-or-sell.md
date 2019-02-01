@@ -12,7 +12,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brian+and+Tisha+White/BlueFuse+Realty-+Did+I+Miss+My+Opportunity+to+Buy-Sell_.mp4
 pullquote: >-
   Just because buyers are getting more opportunities to purchase, it doesn’t
-  mean that sellers won’t still get great prices for their homes.
+  mean that sellers won’t still get great prices for their home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -45,4 +45,4 @@ To hear in more detail our analysis of the market regarding when buyers and sell
 * 9:15—A lot of things can go wrong in a new construction home
 * 10:20—The value of getting your new construction home re-inspected after living in it for a year
 
-Hopefully you found the information in this discussion beneficial! If you have any questions about when is a good time to act in the market or about purchasing new construction homes, feel free to reach out to us. We’d be happy to help.
+Hopefully, you found the information in this discussion beneficial! If you have any questions about when is a good time to act in the market or about purchasing new construction homes, feel free to reach out to us. We’d be happy to help.
