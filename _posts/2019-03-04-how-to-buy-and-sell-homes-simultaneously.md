@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy and Sell Homes Simultaneously
-date:
+date: 2019-03-04 15:28:05
 tags:
   - Home Buyer Tips
   - Home Seller Tips
