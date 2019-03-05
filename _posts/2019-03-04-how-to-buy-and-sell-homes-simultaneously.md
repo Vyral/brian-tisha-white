@@ -22,14 +22,15 @@ youtube_code: 5uqYjWEbHaA
 
 If you’re looking to upgrade to a new home, you may be wondering the best way to do it. You’ll need to decide if you want to sell your home first and then buy the next one, buy first and then sell, or do both at the same time by making a concurrent sale.
 
-Before you decide which one to choose, you’ll need to review your finances. Work with a mortgage lender to see how much you can afford to pay for your next home. You’ll also want to consult your agent to determine what your current home can sell for—**you want to know how much equity you can use as a down payment.**
+Before you decide which option to choose, you’ll need to review your finances. Work with a mortgage lender to see how much you can afford to pay for your next home. You’ll also want to consult your agent to determine what your current home can sell for—**you want to know how much equity you can use as a down payment.**
 
 Once your finances are figured out, it’s time to decide which route you’ll take:
 
-1. **Buying first.** If you buy a home first, it eliminates the pressure of timing your home sale. You can move whenever you want and explore all the options that are available to you. However, you may become stuck with two mortgages for a time.
-2. **Selling first.** When you sell first, you’ll know exactly how much equity you have for your next home. And because you’ll know when your home is closing, you’ll have a better timeline for finding the next one. However, you may need to work out a leaseback with your buyer or find interim housing in the meantime.
+**1. Buying first.** If you buy a home first, it eliminates the pressure of timing your home sale. You can move whenever you want and explore all the options that are available to you. However, you may become stuck with two mortgages for a time.
 
-Buying and selling at the same time. A concurrent sale is possible, but you’ll need to have a plan. Make sure the kinds of homes you’re interested in are actually on the market. Then, you want to find a home when yours goes under contract.
+**2. Selling first.** When you sell first, you’ll know exactly how much equity you have for your next home. And because you’ll know when your home is closing, you’ll have a better timeline for finding the next one. However, you may need to work out a leaseback with your buyer or find interim housing in the meantime.
+
+**3. Buying and selling at the same time.** A concurrent sale is possible, but you’ll need to have a plan. Make sure the kinds of homes you’re interested in are actually on the market. Then, you want to find a home when yours goes under contract.
 
 {% include pullquote.html %}
 
