@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Homeowners and Sellers: It’s a Great Time to Move Up'
-date:
+date: 2019-03-19 16:25:10
 tags:
   - Home Buyer Tips
   - Home Seller Tips
