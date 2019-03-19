@@ -35,8 +35,6 @@ With a pre-qualification, the lender may offer a letter that tentatively asserts
 
 {% include pullquote.html %}
 
-&nbsp;
-
 A conditional loan approval, on the other hand, involves turning in your paperwork and having lenders produce a letter stating that they’ve verified your capacity to secure a loan. This option is better than the first, but still not as strong as the TBD approval.
 
 TBD approvals put you through the underwriting process up front, so that you can (potentially) submit a non-contingent offer when you find the perfect home. **A TBD approval could even help you beat out a cash offer.**
