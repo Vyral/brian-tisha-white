@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing the Market of Trends or Flower Mound and Prosper
-date: 2019-04-01 18:11:11
+date: 2019-04-01 18:11:00
 tags:
   - Real Estate
   - Market Update
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9QBYH1lxEJ4
+youtube_code: 4TeesPmJNCo
 ---
 
 {% include youtube.html %}
@@ -45,4 +45,4 @@ When the months of inventory are up, that is a great sign for buyers, since it m
 
 You can get the best of both worlds if you sell your home at the top of the market in Flower Mound, and then negotiate a great deal for a home in Prosper. We’ve helped our clients do this, and we can help you do the same.
 
-If you have any questions or need a real estate team who really understands the market and studies the numbers to help you get the best deal possible, reach out to us. We’d love to help you make the transition.<br>&nbsp;
+If you have any questions or need a real estate team who really understands the market and studies the numbers to help you get the best deal possible, reach out to us. We’d love to help you make the transition.<br>
