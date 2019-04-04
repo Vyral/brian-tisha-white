@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Argyle and Lantana Market Update
+title: What's Going on in Lantana and Argyle Real Estate?
 date: 2019-04-01 17:59:00
 tags:
   - Real Estate
