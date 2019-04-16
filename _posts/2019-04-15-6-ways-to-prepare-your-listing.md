@@ -22,7 +22,7 @@ youtube_code: GR52vytLwg0
 
 {% include youtube.html %}
 
-We met sellers all the time who want to know the best ways to sell quickly and for top dollar. There are actually six things sellers should focus on to do so, so don’t forget to implement these critical steps when the time comes for you to list:&nbsp;
+We meet sellers all the time who want to know the best ways to sell quickly and for top dollar. There are actually six things sellers should focus on to do so, so don’t forget to implement these critical steps when the time comes for you to list:&nbsp;
 
 **1\. Focus on staging.** The way you live in your house is different from the way you sell your house. While your home is on the market, it should look neat, tidy, and well-staged at all times.&nbsp;
 
