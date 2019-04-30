@@ -19,7 +19,7 @@ youtube_code: o5_oqZyZSmE
 
 {% include youtube.html %}
 
-In regard to mortgages, we’re often asked about how long pre-approvals last. This is important to know: If you’ve been looking at homes for a while, you don’t want to be caught off guard and discover that your pre-approval has expired.
+With regards to mortgages, we’re often asked about how long pre-approvals last. This is important to know: If you’ve been looking at homes for a while, you don’t want to be caught off guard and discover that your pre-approval has expired.
 
 **Typically, a pre-approval lasts about 90 days, but this can vary depending on your market and your lender.&nbsp;**
 
