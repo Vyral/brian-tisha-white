@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers: This Is the Key to Winning in a Seller’s Market'
-date: 2019-05-14 16:24:57
+date: 2019-05-14 16:24:00
 tags:
   - Home Buyer Tips
   - Real Estate
