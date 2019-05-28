@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are iBuyer Companies Worth Using?
-date: 2019-05-28 18:12:55
+date: 2019-05-28 18:12:00
 tags:
 excerpt: >-
   Are iBuyers really worth using? Today we’ll discuss their methods,
