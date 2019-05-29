@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are iBuyer Companies Worth Using?
+title: What the Heck Is an iBuyer?
 date: 2019-05-28 18:12:00
 tags:
 excerpt: >-
