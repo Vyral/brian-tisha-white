@@ -20,17 +20,17 @@ youtube_code: qUspDiQOQZw
 
 {% include youtube.html %}
 
-What is an iBuyer? You’ll likely have heard of at least a few iBuyers, like Offerpad, Zillow Offers, and Opendoor. **They’re companies that offer to pay you in cash for your home. It seems like a quick, painless way to sell your home.&nbsp;**
+What is an iBuyer? You likely have heard of at least a few iBuyers, like Offerpad, Zillow Offers, and Opendoor. **They’re companies that offer to pay you in cash for your home. It seems like a quick, painless way to sell your home.&nbsp;**
 
 Is this really the best method to sell your home for the most money possible?
 
 Well, when you’re thinking of working with an iBuyer, start by laying out your goal. Your goal could be to make the most money possible. It could also be to get out of the home as quickly as possible and to do the least amount of work to get there.
 
-**The goal of an iBuyer, on the other hand, is to make the quickest buck they can for themselves.** They don’t consult with you to ask you about your goals.
+**The goal of an iBuyer, on the other hand, is to make the quickest buck they can for themselves.** They don’t consult with you to learn what your goals are.
 
 {% include pullquote.html %}
 
-You’ve probably seen signs around town that say, “We buy ugly houses\!” These iBuyer companies work in a similar way to the folks behind those signs. **They’ll make a cash offer that’s under market-value 100% of the time**, then they’ll discount for repairs, and that’s on top of the fees they’ll charge you. All in all, **you’ll probably get somewhere between 9% and 12% less for your home than you would if you listed it on the market.** That’s a lot of money to be left on the table\!
+You’ve probably seen signs around town that say, “We buy ugly houses\!” These iBuyer companies work in a similar way to the folks behind those signs. **They’ll make a cash offer that’s under market value 100% of the time**, then they’ll discount for repairs, and that’s on top of the fees they’ll charge you. All in all, **you’ll probably get somewhere between 9% and 12% less for your home than you would if you listed it on the market.** That’s a lot of money to be left on the table\!
 
 When we at BlueFuse meet with clients, we take the time to actually ask them questions about how we can help them make the most money possible. **We help to streamline the process to be quick and easy, we offer staging services to get top dollar for your home, and many other methods to ensure that you’re successful.**
 
