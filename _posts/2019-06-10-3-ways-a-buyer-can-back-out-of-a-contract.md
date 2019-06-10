@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways a Buyer Can Back Out of a Contract
-date:
+date: 2019-06-10 15:31:51
 tags:
   - Real Estate
   - Home Buyer Tips
