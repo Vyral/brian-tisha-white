@@ -25,7 +25,7 @@ youtube_code: mBHVtz_rgNs
 
 One thing we emphasize here at BlueFuse is protecting our buyers. Even though it’s a seller’s market, it doesn’t mean the buyer doesn’t still have control over their portion of a transaction. Homebuyers in the market actually have 13 ways that they can get out of a contract, so when you’re looking to purchase a home, make sure that you work with an agent who understands all 13 routes you can take.
 
-If you’re a seller, on the other hand, then you’ll want to work with a team who will scour the contract and make sure that all of the details are covered, that all the i’s are dotted and the t’s are crossed. Additionally, it will benefit you to know all the 13 ways that your potential buyer can get out of their contract.
+If you’re a seller, on the other hand, then you’ll want to work with a team who will scour the contract and make sure that all of the details are covered, and that all the i’s are dotted and the t’s are crossed. Additionally, it will benefit you to know all the 13 ways that your potential buyer can get out of their contract.
 
 We won’t list all 13 here, but we will cover a few of the main ones so that, no matter which side of the transaction you’re on, you know at least a few ways that a buyer may legally break a contract.
 
@@ -37,4 +37,4 @@ We won’t list all 13 here, but we will cover a few of the main ones so that, n
 
 <br>**3\. The buyer can opt out if they disagree with the terms of an HOA contract.** If the home that a buyer is looking to purchase is within a homeowners association, the seller has to produce documents that outline the HOA covenants. Once the buyer receives these documents, they get the chance to review them; if there’s something in the covenants that the buyer doesn’t like, they’re able to back away.
 
-If you have any questions about today’s topic or would like to see the rest of the 13 ways to get out of a deal legally, call the BlueFuse team first. We make real estate awesome for you.
+If you have any questions about today’s topic or would like to see the rest of the 13 ways to get out of a deal legally, call the BlueFuse Group first. We make real estate awesome for you.
