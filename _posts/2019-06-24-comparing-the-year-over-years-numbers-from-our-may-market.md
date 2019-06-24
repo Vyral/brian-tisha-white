@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing the Year-Over-Years Numbers From Our May Market
-date:
+date: 2019-06-24 15:08:00
 tags:
   - Real Estate
   - Market Update
