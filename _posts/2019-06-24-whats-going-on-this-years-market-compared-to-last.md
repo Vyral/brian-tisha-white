@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's going on?  This year's Market Compared to Last
+title: What's Going On?  This Year's Market Compared to Last
 date: 2019-06-24 15:08:00
 tags:
   - Real Estate
