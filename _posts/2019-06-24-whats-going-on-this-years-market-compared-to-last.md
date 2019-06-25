@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing the Year-Over-Year Numbers From Our May Market
+title: What's going on?  This year's Market Compared to Last
 date: 2019-06-24 15:08:00
 tags:
   - Real Estate
