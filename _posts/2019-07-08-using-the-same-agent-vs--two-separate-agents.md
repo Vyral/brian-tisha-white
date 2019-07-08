@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using the Same Agent vs. Two Separate Agents
-date: 2019-07-08 15:57:31
+date: 2019-07-08 15:57:00
 tags:
   - Real Estate
   - Home Buyer Tips
