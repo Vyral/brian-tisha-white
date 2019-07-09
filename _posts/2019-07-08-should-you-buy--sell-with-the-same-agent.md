@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using the Same Agent vs. Two Separate Agents
+title: Should You Buy & Sell with the same Agent?
 date: 2019-07-08 15:57:00
 tags:
   - Real Estate
