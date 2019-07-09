@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should You Buy & Sell with the same Agent?
+title: Should You Buy & Sell With The Same Agent?
 date: 2019-07-08 15:57:00
 tags:
   - Real Estate
