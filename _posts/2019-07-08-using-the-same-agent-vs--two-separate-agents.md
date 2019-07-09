@@ -41,4 +41,6 @@ Second, you might just be relocating to another area of the city, but **if your 
 
 The last reason you might want to hire one agent to help you buy and another to help you sell is that **a decent number of agents specialize in one or the other.** We at the BlueFuse Group have buyer specialists and listing specialists whose sole focus is assisting buyers and sellers, respectively.&nbsp;
 
-In truth, it can be difficult for one agent to juggle both transactional sides, so it’d probably be more advantageous for you to work with a team that has endless resources and can provide you with superb client service.&nbsp;<br>If you have any questions or would like help setting your own buying and/or selling experience in motion, please reach out to us. We’d be happy to help\! At BlueFuse, we make real estate awesome. &nbsp;&nbsp;
+In truth, it can be difficult for one agent to juggle both transactional sides, so it’d probably be more advantageous for you to work with a team that has endless resources and can provide you with superb client service.&nbsp;
+
+<br>If you have any questions or would like help setting your own buying and/or selling experience in motion, please reach out to us. We’d be happy to help\! At BlueFuse, we make real estate awesome. &nbsp;&nbsp;
