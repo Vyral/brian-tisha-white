@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Should You Make Certain Upgrades to Your Home?
-date: 2019-07-22 19:20:26
+date: 2019-07-22 19:20:00
 tags:
   - Real Estate
   - Home Seller Tips
