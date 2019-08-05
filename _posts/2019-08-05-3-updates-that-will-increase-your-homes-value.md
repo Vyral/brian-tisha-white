@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Updates That Will Increase Your Home’s Value
-date: 2019-08-05 15:35:38
+date: 2019-08-05 15:35:00
 tags:
   - Real Estate
   - Home Seller Tips
