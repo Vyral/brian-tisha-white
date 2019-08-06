@@ -33,6 +33,6 @@ If you’re looking to increase your home’s value before putting it on the mar
 
 **3\. Curb appeal updates.** Studies show that most buyers make a buying decision within 90 seconds of pulling up to a house, so don’t underestimate the impact of your home’s curb appeal. Make sure the grass is green and well-kept, and consider adding some flowers and fresh mulch to the landscaping. Also, sweep off and clean the entryway so everything looks and feels fresh.&nbsp;
 
-Now that you know what to do to boost your home’s value, be on the lookout for our next video where we talk about what not to do to your home before putting it on the market.&nbsp;
+Now that you know what to do to boost your home’s value, be on the lookout for our next video,here we talk about what not to do to your home before putting it on the market.&nbsp;
 
 In the meantime, if you have any other real estate questions, don’t hesitate to reach out to us. We’d love to help you.&nbsp;
