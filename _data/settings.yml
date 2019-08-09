@@ -43,23 +43,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.findhomesindfwmetroplex.com/homevalue/estimate
+  first_CTA_URL: https://www.amazinghomesindfw.com/sell.php
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.findhomesindfwmetroplex.com/search?sortby=latest&minbeds=3&minbaths=0&minprice=350000&maxprice=700000&haslat=1&haslong=1&page=1&type=grid&list_rent=0
+  second_CTA_URL: https://www.amazinghomesindfw.com/index.php?rtype=
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Dallas - Fort Worth Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.findhomesindfwmetroplex.com/homevalue/estimate
+    CTA_url: https://www.amazinghomesindfw.com/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Dallas - Fort Worth Home?"
     CTA_text2: "Search the entire MLS for your Dallas - Fort Worth home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.findhomesindfwmetroplex.com/search?sortby=latest&minbeds=3&minbaths=0&minprice=350000&maxprice=700000&haslat=1&haslong=1&page=1&type=grid&list_rent=0
+    CTA_url2: https://www.amazinghomesindfw.com/index.php?rtype=
 
 lender:
   show_section: false
