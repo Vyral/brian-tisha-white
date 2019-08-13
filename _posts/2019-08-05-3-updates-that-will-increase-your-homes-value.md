@@ -16,8 +16,8 @@ pullquote: >-
   appeal.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/white-youtube.jpg
 youtube_code: '-bwawPn0i4U'
 ---
 
