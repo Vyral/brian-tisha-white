@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Updates That Won’t Help You Sell
-date: 2019-08-16 14:47:11
+date: 2019-08-16 14:47:00
 tags:
   - Real Estate
   - Home Seller Tips
