@@ -25,7 +25,7 @@ When you’re updating a home, there are certainly some areas where you can get 
 
 {% include pullquote.html %}
 
-**2\. New roof or HVAC.** These are both great things to have and can help your home sell faster, but the problem is that most buyers expect homes to have functioning roofs and HVACs so it doesn’t really add any extra value to what’s already there.
+**2\. New roof or HVAC.** These are both great things to have and can help your home sell faster, but the problem is that most buyers expect homes to have functioning roofs and HVACs, so it doesn’t really add any extra value to what’s already there.
 
 **3\. Swimming pool.** A swimming pool will certainly add value to your home, but you won’t get nearly as much back for it when you decide to sell. Be thoughtful about the addition of a pool, including how much you’ll spend on it and how much enjoyment you can get out of it before you do sell.
 
