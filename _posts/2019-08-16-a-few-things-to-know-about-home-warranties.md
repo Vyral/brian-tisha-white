@@ -19,7 +19,7 @@ youtube_code: 9jVi7iW7aXM
 
 A home warranty is a great thing to have as protection whether you’re a buyer or seller. The answer to whether or not you need one changes depending on who you are.
 
-**If you’re a homebuyer, you definitely want a home warranty.** Although you’ve probably had an inspection, there could be future issues that didn’t show up on the report. When there’s a spot in the contract where the buyer can negotiate for the seller to buy them a home warranty. **It helps protect you and probably won’t cost you anything.**
+**If you’re a homebuyer, you definitely want a home warranty.** Although you’ve probably had an inspection, there could be future issues that didn’t show up on the report. There's actually a spot in the contract where the buyer can negotiate for the seller to buy them a home warranty. **It helps protect you and probably won’t cost you anything.**
 
 {% include pullquote.html %}
 
