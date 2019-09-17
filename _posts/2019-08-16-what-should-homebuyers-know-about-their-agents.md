@@ -20,7 +20,7 @@ youtube_code: H2q2G0Byjxk
 
 {% include youtube.html %}
 
-We’re here today to answer a few of the most common questions we hear when it comes to the topic of home buying and working with agents. Without further ado, let’s get to them:
+*A lot of homebuyers are under the impression that a buyer’s agent isn’t necessary when buying a home. While that’s technically true, not having representation in your home purchase can make you extremely vulnerable.*<br><br>We’re here today to answer a few of the most common questions we hear when it comes to the topic of home buying and working with agents. Without further ado, let’s get to them:
 
 **Can homebuyers contact the listing agent directly?**
 
