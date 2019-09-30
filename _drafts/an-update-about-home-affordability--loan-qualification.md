@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/white-youtube-5.jpg
 youtube_code: shuMqcUmTW4
 ---
 
-{% include youtube.html %}Today, let’s talk about both the current and future state of loan qualification in our market.
+{% include youtube.html %} <center>Today, let’s talk about both the current and future state of loan qualification in our market.</center>
 
 Back during the financial crisis of the late 2000s, Fannie Mae and Freddie Mac (two entities that govern lending) made some adjustments to their qualifications by allowing a higher debt-to-income ratio, meaning people could borrow more money relative to what they earn.
 
