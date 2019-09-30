@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Update About Home Affordability & Loan Qualification
-date:
+date: 2019-09-30 19:04:32
 tags:
 excerpt: >-
   Today, let’s talk about both the current and future state of loan
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/white-youtube-5.jpg
 youtube_code: shuMqcUmTW4
 ---
 
-{% include youtube.html %} <center>Today, let’s talk about both the current and future state of loan qualification in our market.</center>
+{% include youtube.html %}
+
+<center><em>Today, let&rsquo;s talk about both the current and future state of loan qualification in our market.</em></center>
+
+&nbsp;
 
 Back during the financial crisis of the late 2000s, Fannie Mae and Freddie Mac (two entities that govern lending) made some adjustments to their qualifications by allowing a higher debt-to-income ratio, meaning people could borrow more money relative to what they earn.
 
