@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Key to Responding to Lowball Offers
-date:
+date: 2019-10-04 20:05:34
 tags:
 excerpt: 'Has your client received a lowball offer? If so, here’s how you should react.'
 enclosure:
@@ -16,7 +16,11 @@ youtube_alternate_image: /uploads/white-youtube-6-1.jpg
 youtube_code: '-D638yPWs1I'
 ---
 
-{% include youtube.html %}<center>Has your client received a lowball offer? If so, here’s how you should react.</center>&nbsp;
+{% include youtube.html %}
+
+<center>Has your client received a lowball offer? If so, here&rsquo;s how you should react.</center>
+
+&nbsp;
 
 As an agent, what steps should you take after receiving a lowball offer?&nbsp;
 
