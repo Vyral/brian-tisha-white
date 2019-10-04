@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/white-youtube-6.jpg
 youtube_code: '-D638yPWs1I'
 ---
 
-{% include youtube.html %}Has your client received a lowball offer? If so, here’s how you should react.
+{% include youtube.html %}<center>Has your client received a lowball offer? If so, here’s how you should react.</center>
 
 As an agent, what steps should you take after receiving a lowball offer?&nbsp;
 
