@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Is the Right Time to Buy or Sell a Home?
-date:
+date: 2019-10-14 17:00:02
 tags:
 excerpt: >-
   Buying or selling a home is a big decision. Here’s some advice to help make
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/white-youtube-7.jpg
 youtube_code: Ndc9Eu1utNA
 ---
 
-{% include youtube.html %}<center>Buying or selling a home is a big decision. Here’s some advice to help make your decision easier.</center>
+{% include youtube.html %}
+
+<center>Buying or selling a home is a big decision. Here&rsquo;s some advice to help make your decision easier.</center>
+
+&nbsp;
 
 One of the most common questions we hear is, “When is the right time to buy or sell a home?” **Truthfully, there is no simple, universal answer to this question.&nbsp;**
 
