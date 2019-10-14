@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/white-youtube-7.jpg
 youtube_code: Ndc9Eu1utNA
 ---
 
-{% include youtube.html %}Buying or selling a home is a big decision. Here’s some advice to help make your decision easier.
+{% include youtube.html %}<center>Buying or selling a home is a big decision. Here’s some advice to help make your decision easier.</center>
 
 One of the most common questions we hear is, “When is the right time to buy or sell a home?” **Truthfully, there is no simple, universal answer to this question.&nbsp;**
 
