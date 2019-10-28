@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/white-youtube-9.jpg
 youtube_code: 36HwCjxo5tk
 ---
 
-{% include youtube.html %}Our ten secrets to selling your home for top dollar.
+{% include youtube.html %}<center>Our ten secrets to selling your home for top dollar.</center>
 
 Selling a home these days requires a lot of work, but it’s worth it\! Homes sell for more money when sellers have paid attention to the details. However, some don’t know where to begin. These days top 10 lists are popular. So, we decided to share our 10 secrets for getting top dollar when selling your home.
 
