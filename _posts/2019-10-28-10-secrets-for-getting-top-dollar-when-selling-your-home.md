@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Secrets For Getting Top Dollar When Selling Your Home
-date: 2019-10-28 15:43:07
+date: 2019-10-28 15:43:00
 tags:
 excerpt: Our ten secrets to selling your home for top dollar.
 enclosure:
@@ -15,11 +15,11 @@ youtube_code: 36HwCjxo5tk
 
 {% include youtube.html %}
 
-<center>Our ten secrets to selling your home for top dollar.</center>
+<center>There are 10 secrets you must know if you want to sell your home for top dollar.</center>
 
 &nbsp;
 
-Selling a home these days requires a lot of work, but it’s worth it\! Homes sell for more money when sellers have paid attention to the details. However, some don’t know where to begin. These days top 10 lists are popular. So, we decided to share our 10 secrets for getting top dollar when selling your home.
+Selling a home these days requires a lot of work, but it’s worth it\! Homes sell for more money when sellers have paid attention to the details. However, some don’t know where to begin. Top 10 lists are popular these days, so here are 10 secrets for getting top dollar when selling your home.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
