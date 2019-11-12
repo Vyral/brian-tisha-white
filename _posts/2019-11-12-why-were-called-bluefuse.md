@@ -10,7 +10,7 @@ pullquote: 'At BlueFuse, we make real estate easy for you.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-21-bluefuse-np.jpg
+youtube_alternate_image: /uploads/white-youtube-10.jpg
 youtube_code: o0DqnznDGnY
 ---
 
