@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why We’re Called “BlueFuse”
-date: 2019-02-21 22:26:57
+date: 2019-11-12 10:26:00
 tags:
 excerpt: 'Where did we come up with the name “BlueFuse?” Allow us to explain, today.'
 enclosure: >-
