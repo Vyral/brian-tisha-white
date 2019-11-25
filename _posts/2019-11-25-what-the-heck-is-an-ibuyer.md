@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Heck Is an iBuyer?
-date: 2019-05-28 18:12:00
+date: 2019-11-25 06:12:00
 tags:
 excerpt: >-
   Are iBuyers really worth using? Today we’ll discuss their methods,
@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/white-youtube-11.jpg
 youtube_code: qUspDiQOQZw
 ---
 
