@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Is the Right Time to Buy or Sell a Home?
-date: 2019-10-14 17:00:00
+date: 2019-12-10 10:00:00
 tags:
 excerpt: >-
   Buying or selling a home is a big decision. Here’s some advice to help make
